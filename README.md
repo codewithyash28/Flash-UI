@@ -59,9 +59,6 @@ Flash UI moves away from the "Chatbot" metaphor. It treats AI as a **Material La
 
 ---
 
-## 📜 License
-
-SPDX-License-Identifier: Apache-2.0
 
 
 
