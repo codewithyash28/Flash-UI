@@ -63,5 +63,5 @@ Flash UI moves away from the "Chatbot" metaphor. It treats AI as a **Material La
 
 SPDX-License-Identifier: Apache-2.0
 
-*Developed with ❤️ by Ammaar Reshi*
+
 
